@@ -242,7 +242,7 @@ function create_config( )
     "info",
     "lock_join"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {123755887},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -313,8 +313,6 @@ Only sudo users can run this command
 !bc [group_id] [text]
 !bc 123456789 Hello !
 This command will send text to [group_id]
-
-ch: @Nod32team
 
 ]],
     help_text = [[
@@ -479,12 +477,6 @@ NOD32 Commands list :
 
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
-
-Developer: @BehroozYaghi
-توسعه دهنده
-
-channel: @Nod32team
-کانال ما
 
 G00D LUCK ^_^
 ]]
