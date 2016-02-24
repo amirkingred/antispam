@@ -3,13 +3,9 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v5'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @amir13137878
   
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 5
+  Version: 1
   
   All rights reserved.
   __________________]]
