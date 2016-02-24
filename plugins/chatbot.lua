@@ -1,7 +1,7 @@
 
 local function run(msg)
-if msg.text == "یاقی" then
-	return "کی اسم سازندمو صدا زد؟"
+if msg.text == "امیرحسین" then
+	return "با باباییم چکار داری؟"
 end
 if msg.text == "Umbrella" then
 	return "کیر نود32 هم نی"
@@ -9,7 +9,7 @@ end
 if msg.text == "umbrella" then
 	return "کیر نود32 هم نی"
 end
-if msg.text == "نود32" then
+if msg.text == "تله جیان" then
 	return "hum?"
 end
 if msg.text == "اسپم" then
@@ -60,7 +60,7 @@ return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
-		"^یاقی$",
+		"^امیرحسین$",
 		"^[Bb]ot$",
 		"^[Uu]mbrella$",
 		"^بای$",
