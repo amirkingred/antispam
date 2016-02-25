@@ -311,7 +311,7 @@ Only sudo users can run this command
 This command will send text to [group_id]
 
 ]],
-    help_text = help for bot :
+    help_text = help for bot :[[
  ــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 1-banhammer list ^
  
